@@ -1,0 +1,229 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[8]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[9]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[10]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[11]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[12]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[13]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[14]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[15]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[16]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[17]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[18]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[19]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[20]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[21]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[22]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[23]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[24]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[25]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[26]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[27]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[28]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[29]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[30]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[31]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTB_data_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTB_data_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTB_data_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTB_data_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTB_data_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTB_data_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTB_data_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTB_data_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTD_data_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTD_data_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTD_data_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTD_data_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTD_data_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTD_data_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTD_data_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PORTD_data_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PIND2_in",
+					"strict" : false
+				},
+				{
+					"name" : "PIND3_in",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

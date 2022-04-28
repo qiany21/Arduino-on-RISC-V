@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at single_cycle_BRAM_top.v(24): object "CORE" differs only in case from object "core" in the same scope File: M:/RISC-V/quartus_project_revert_timer/single_cycle_BRAM_top.v Line: 24
+Warning (10268): Verilog HDL information at dual_port_BRAM.v(74): always construct contains both blocking and non-blocking assignments File: M:/RISC-V/quartus_project_revert_timer/dual_port_BRAM.v Line: 74

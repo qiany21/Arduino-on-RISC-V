@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Apr 26 13:57:09 2022
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : single_cycle_BRAM_top
+Top-level Entity Name : single_cycle_BRAM_top
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 5,679 / 114,480 ( 5 % )
+    Total combinational functions : 3,708 / 114,480 ( 3 % )
+    Dedicated logic registers : 3,548 / 114,480 ( 3 % )
+Total registers : 3548
+Total pins : 54 / 529 ( 10 % )
+Total virtual pins : 0
+Total memory bits : 2,211,840 / 3,981,312 ( 56 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

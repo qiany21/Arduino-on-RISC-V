@@ -1,0 +1,667 @@
+# Reading C:/intelFPGA_lite/19.1/modelsim_ase/tcl/vsim/pref.tcl
+# do single_cycle_BRAM_top_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/19.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/timer_prescaler.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:47 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/timer_prescaler.v 
+# -- Compiling module prescaler
+# 
+# Top level modules:
+# 	prescaler
+# End time: 13:42:47 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/8bit_TC.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:47 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/8bit_TC.v 
+# -- Compiling module eight_TC
+# 
+# Top level modules:
+# 	eight_TC
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/Interrupt_Handler.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/Interrupt_Handler.v 
+# -- Compiling module Interrupt_Handler
+# 
+# Top level modules:
+# 	Interrupt_Handler
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM_byte_en.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM_byte_en.v 
+# -- Compiling module dual_port_BRAM_byte_en
+# 
+# Top level modules:
+# 	dual_port_BRAM_byte_en
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORTD.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORTD.v 
+# -- Compiling module PORTD
+# 
+# Top level modules:
+# 	PORTD
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORTB.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORTB.v 
+# -- Compiling module PORTB
+# 
+# Top level modules:
+# 	PORTB
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_BRAM_top.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_BRAM_top.v 
+# -- Compiling module single_cycle_BRAM_top
+# 
+# Top level modules:
+# 	single_cycle_BRAM_top
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_core.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_core.v 
+# -- Compiling module single_cycle_core
+# 
+# Top level modules:
+# 	single_cycle_core
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/fetch_issue.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/fetch_issue.v 
+# -- Compiling module fetch_issue
+# 
+# Top level modules:
+# 	fetch_issue
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/fetch_receive.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/fetch_receive.v 
+# -- Compiling module fetch_receive
+# 
+# Top level modules:
+# 	fetch_receive
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/decode_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/decode_unit.v 
+# -- Compiling module decode_unit
+# 
+# Top level modules:
+# 	decode_unit
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/control_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/control_unit.v 
+# -- Compiling module control_unit
+# 
+# Top level modules:
+# 	control_unit
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/execution_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/execution_unit.v 
+# -- Compiling module execution_unit
+# 
+# Top level modules:
+# 	execution_unit
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_issue.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_issue.v 
+# -- Compiling module memory_issue
+# 
+# Top level modules:
+# 	memory_issue
+# End time: 13:42:48 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_receive.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:48 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_receive.v 
+# -- Compiling module memory_receive
+# 
+# Top level modules:
+# 	memory_receive
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/writeback_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/writeback_unit.v 
+# -- Compiling module writeback_unit
+# 
+# Top level modules:
+# 	writeback_unit
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/regFile.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/regFile.v 
+# -- Compiling module regFile
+# 
+# Top level modules:
+# 	regFile
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/ALU.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/ALU.v 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/hazard_detection_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/hazard_detection_unit.v 
+# -- Compiling module hazard_detection_unit
+# 
+# Top level modules:
+# 	hazard_detection_unit
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_interface.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_interface.v 
+# -- Compiling module memory_interface
+# 
+# Top level modules:
+# 	memory_interface
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM_memory_subsystem.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM_memory_subsystem.v 
+# -- Compiling module dual_port_BRAM_memory_subsystem
+# 
+# Top level modules:
+# 	dual_port_BRAM_memory_subsystem
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM.v 
+# -- Compiling module dual_port_BRAM
+# 
+# Top level modules:
+# 	dual_port_BRAM
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_control_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_control_unit.v 
+# -- Compiling module single_cycle_control_unit
+# 
+# Top level modules:
+# 	single_cycle_control_unit
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORT.v 
+# -- Compiling module PORT
+# 
+# Top level modules:
+# 	PORT
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/pll_clock.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/pll_clock.v 
+# -- Compiling module pll_clock
+# 
+# Top level modules:
+# 	pll_clock
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/db {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/db/pll_clock_altpll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/db" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/db/pll_clock_altpll.v 
+# -- Compiling module pll_clock_altpll
+# 
+# Top level modules:
+# 	pll_clock_altpll
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/tb_single_cycle_BRAM_top_gcd.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:42:49 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/tb_single_cycle_BRAM_top_gcd.v 
+# -- Compiling module tb_single_cycle_BRAM_top_gcd
+# 
+# Top level modules:
+# 	tb_single_cycle_BRAM_top_gcd
+# End time: 13:42:49 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb_single_cycle_BRAM_top_gcd
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" tb_single_cycle_BRAM_top_gcd 
+# Start time: 13:42:49 on Apr 26,2022
+# Loading work.tb_single_cycle_BRAM_top_gcd
+# Loading work.single_cycle_BRAM_top
+# Loading work.pll_clock
+# Loading altera_mf_ver.altpll
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.pll_iobuf
+# Loading work.single_cycle_core
+# Loading work.fetch_issue
+# Loading work.fetch_receive
+# Loading work.decode_unit
+# Loading work.regFile
+# Loading work.single_cycle_control_unit
+# Loading work.hazard_detection_unit
+# Loading work.control_unit
+# Loading work.execution_unit
+# Loading work.ALU
+# Loading work.memory_issue
+# Loading work.memory_receive
+# Loading work.writeback_unit
+# Loading work.memory_interface
+# Loading work.dual_port_BRAM_memory_subsystem
+# Loading work.dual_port_BRAM_byte_en
+# Loading work.PORTB
+# Loading work.PORTD
+# Loading work.PORT
+# Loading work.eight_TC
+# Loading work.prescaler
+# Loading work.Interrupt_Handler
+# Loading altera_mf_ver.MF_cycloneiii_pll
+# Loading altera_mf_ver.cda_m_cntr
+# Loading altera_mf_ver.cda_n_cntr
+# Loading altera_mf_ver.cda_scale_cntr
+# Loading work.dual_port_BRAM
+# ** Warning: (vsim-3017) C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_BRAM_top.v(275): [TFMPC] - Too few port connections. Expected 11, found 10.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_single_cycle_BRAM_top_gcd/dut/eight_TC File: C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/8bit_TC.v
+# ** Warning: (vsim-3722) C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_BRAM_top.v(275): [TFMPC] - Missing connection for port 'TCNT0'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#  Note : Cyclone IV E PLL was reset
+# Time: 0  Instance: tb_single_cycle_BRAM_top_gcd.dut.pll.altpll_component.cycloneiii_pll.pll3
+#  Note : Cyclone IV E PLL locked to incoming clock
+# Time: 1011  Instance: tb_single_cycle_BRAM_top_gcd.dut.pll.altpll_component.cycloneiii_pll.pll3
+do single_cycle_BRAM_top_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/timer_prescaler.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:44 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/timer_prescaler.v 
+# -- Compiling module prescaler
+# 
+# Top level modules:
+# 	prescaler
+# End time: 13:43:44 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/8bit_TC.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:44 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/8bit_TC.v 
+# -- Compiling module eight_TC
+# 
+# Top level modules:
+# 	eight_TC
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/Interrupt_Handler.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/Interrupt_Handler.v 
+# -- Compiling module Interrupt_Handler
+# 
+# Top level modules:
+# 	Interrupt_Handler
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM_byte_en.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM_byte_en.v 
+# -- Compiling module dual_port_BRAM_byte_en
+# 
+# Top level modules:
+# 	dual_port_BRAM_byte_en
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORTD.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORTD.v 
+# -- Compiling module PORTD
+# 
+# Top level modules:
+# 	PORTD
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORTB.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORTB.v 
+# -- Compiling module PORTB
+# 
+# Top level modules:
+# 	PORTB
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_BRAM_top.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_BRAM_top.v 
+# -- Compiling module single_cycle_BRAM_top
+# 
+# Top level modules:
+# 	single_cycle_BRAM_top
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_core.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_core.v 
+# -- Compiling module single_cycle_core
+# 
+# Top level modules:
+# 	single_cycle_core
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/fetch_issue.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/fetch_issue.v 
+# -- Compiling module fetch_issue
+# 
+# Top level modules:
+# 	fetch_issue
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/fetch_receive.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/fetch_receive.v 
+# -- Compiling module fetch_receive
+# 
+# Top level modules:
+# 	fetch_receive
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/decode_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/decode_unit.v 
+# -- Compiling module decode_unit
+# 
+# Top level modules:
+# 	decode_unit
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/control_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/control_unit.v 
+# -- Compiling module control_unit
+# 
+# Top level modules:
+# 	control_unit
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/execution_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/execution_unit.v 
+# -- Compiling module execution_unit
+# 
+# Top level modules:
+# 	execution_unit
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_issue.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_issue.v 
+# -- Compiling module memory_issue
+# 
+# Top level modules:
+# 	memory_issue
+# End time: 13:43:45 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_receive.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:45 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_receive.v 
+# -- Compiling module memory_receive
+# 
+# Top level modules:
+# 	memory_receive
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/writeback_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/writeback_unit.v 
+# -- Compiling module writeback_unit
+# 
+# Top level modules:
+# 	writeback_unit
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/regFile.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/regFile.v 
+# -- Compiling module regFile
+# 
+# Top level modules:
+# 	regFile
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/ALU.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/ALU.v 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/hazard_detection_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/hazard_detection_unit.v 
+# -- Compiling module hazard_detection_unit
+# 
+# Top level modules:
+# 	hazard_detection_unit
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_interface.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/memory_interface.v 
+# -- Compiling module memory_interface
+# 
+# Top level modules:
+# 	memory_interface
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM_memory_subsystem.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM_memory_subsystem.v 
+# -- Compiling module dual_port_BRAM_memory_subsystem
+# 
+# Top level modules:
+# 	dual_port_BRAM_memory_subsystem
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/dual_port_BRAM.v 
+# -- Compiling module dual_port_BRAM
+# 
+# Top level modules:
+# 	dual_port_BRAM
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_control_unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/single_cycle_control_unit.v 
+# -- Compiling module single_cycle_control_unit
+# 
+# Top level modules:
+# 	single_cycle_control_unit
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/PORT.v 
+# -- Compiling module PORT
+# 
+# Top level modules:
+# 	PORT
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/pll_clock.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/pll_clock.v 
+# -- Compiling module pll_clock
+# 
+# Top level modules:
+# 	pll_clock
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/db {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/db/pll_clock_altpll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/db" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/db/pll_clock_altpll.v 
+# -- Compiling module pll_clock_altpll
+# 
+# Top level modules:
+# 	pll_clock_altpll
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink {C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/tb_single_cycle_BRAM_top_gcd.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:43:46 on Apr 26,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink" C:/Users/natha/Documents/QuartusFiles/quartus_project_revert_interrupt_working/quartus_project_revert_5s_blink/tb_single_cycle_BRAM_top_gcd.v 
+# -- Compiling module tb_single_cycle_BRAM_top_gcd
+# 
+# Top level modules:
+# 	tb_single_cycle_BRAM_top_gcd
+# End time: 13:43:46 on Apr 26,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb_single_cycle_BRAM_top_gcd
+# End time: 13:43:47 on Apr 26,2022, Elapsed time: 0:00:58
+# Errors: 0, Warnings: 2
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" tb_single_cycle_BRAM_top_gcd 
+# Start time: 13:43:47 on Apr 26,2022
+# Loading work.tb_single_cycle_BRAM_top_gcd
+# Loading work.single_cycle_BRAM_top
+# Loading work.pll_clock
+# Loading altera_mf_ver.altpll
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.pll_iobuf
+# Loading work.single_cycle_core
+# Loading work.fetch_issue
+# Loading work.fetch_receive
+# Loading work.decode_unit
+# Loading work.regFile
+# Loading work.single_cycle_control_unit
+# Loading work.hazard_detection_unit
+# Loading work.control_unit
+# Loading work.execution_unit
+# Loading work.ALU
+# Loading work.memory_issue
+# Loading work.memory_receive
+# Loading work.writeback_unit
+# Loading work.memory_interface
+# Loading work.dual_port_BRAM_memory_subsystem
+# Loading work.dual_port_BRAM_byte_en
+# Loading work.PORTB
+# Loading work.PORTD
+# Loading work.PORT
+# Loading work.eight_TC
+# Loading work.prescaler
+# Loading work.Interrupt_Handler
+# Loading altera_mf_ver.MF_cycloneiii_pll
+# Loading altera_mf_ver.cda_m_cntr
+# Loading altera_mf_ver.cda_n_cntr
+# Loading altera_mf_ver.cda_scale_cntr
+# Loading work.dual_port_BRAM
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#  Note : Cyclone IV E PLL was reset
+# Time: 0  Instance: tb_single_cycle_BRAM_top_gcd.dut.pll.altpll_component.cycloneiii_pll.pll3
+#  Note : Cyclone IV E PLL locked to incoming clock
+# Time: 1011  Instance: tb_single_cycle_BRAM_top_gcd.dut.pll.altpll_component.cycloneiii_pll.pll3
+# End time: 13:44:52 on Apr 26,2022, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 0
